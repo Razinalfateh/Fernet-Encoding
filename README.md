@@ -1,7 +1,10 @@
 # Fernet-Encoding-Decoding
 The easiest way to encode message by using Algorithm and to Decrypt Fernet Algorithm
 This is beta  version before I combine to coding to the reliable Fernet Decoding and Encoding
-
+# Encoding Interface
+![Screenshot (197)](https://github.com/Razinalfateh/Fernet-Encoding-Decoding/blob/main/encodeinterface.JPG?raw=true)
+# Decoding Interface
+![Screenshot (197)](https://github.com/Razinalfateh/Fernet-Encoding-Decoding/blob/main/decodeinterface.JPG?raw=true)
 ```diff
 - Version: Beta
 ```
