@@ -1,1 +1,3 @@
 cryptography
+bs4
+termcolor2
